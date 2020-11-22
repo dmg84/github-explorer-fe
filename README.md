@@ -1,2 +1,16 @@
 # github-explorer-fe
-An React front end application to explorer Github repositories
+A React front end application to explorer Github repositories
+
+## Instructions: 
+
+Install dependencies:
+```
+npm install 
+``` 
+
+serve webapp:
+```
+npm run start 
+``` 
+
+Enjoy :yum:

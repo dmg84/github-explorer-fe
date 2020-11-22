@@ -1,0 +1,23 @@
+
+.btn {
+  background-color: #3450db;
+  color: white;
+  font-size: 1.2rem;
+  padding: 10px 25px 10px 25px;
+  border-radius: 100px;
+  border: 1px black solid;
+  outline: none;
+  box-shadow: none;
+  cursor: pointer;
+
+  &:active, &:hover {
+    background-color: #7587d8;
+  }
+
+  &:disabled {
+    opacity: 0.4;
+    cursor: default;
+    background-color: #7587d8;
+  }
+}
+
